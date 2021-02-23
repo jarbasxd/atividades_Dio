@@ -57,6 +57,11 @@ namespace proj_um
             this.Excluido = true;
         }
 
+        public void Recuperar()
+        {
+            this.Excluido = false;
+        }
+
 
     }
 

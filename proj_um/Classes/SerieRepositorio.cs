@@ -17,6 +17,12 @@ namespace proj_um
             listaSerie[id].Excluir();
         }
 
+        public void Recupera(int id)
+        {
+            listaSerie[id].Recuperar();
+        }
+            
+
         public void Insere(Serie objeto)
         {
             listaSerie.Add(objeto);

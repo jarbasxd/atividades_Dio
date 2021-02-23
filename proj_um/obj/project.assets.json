@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jarbas\\_workspace\\atv_1\\proj_um\\proj_um.csproj",
+      "projectUniqueName": "C:\\Jarbas\\_workspace\\atividades_dio\\proj_um\\proj_um.csproj",
       "projectName": "proj_um",
-      "projectPath": "C:\\Jarbas\\_workspace\\atv_1\\proj_um\\proj_um.csproj",
+      "projectPath": "C:\\Jarbas\\_workspace\\atividades_dio\\proj_um\\proj_um.csproj",
       "packagesPath": "C:\\Users\\Jarbas Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Jarbas\\_workspace\\atv_1\\proj_um\\obj\\",
+      "outputPath": "C:\\Jarbas\\_workspace\\atividades_dio\\proj_um\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jarbas Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

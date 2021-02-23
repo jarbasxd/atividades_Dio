@@ -28,6 +28,9 @@ namespace proj_um
                     case "5":
                         VisualizarSerie();
                         break;
+                    case "6": 
+                        RecuperarSerie();
+                        break;
                     case "C":
                         Console.Clear();
                         break;
@@ -144,6 +147,33 @@ namespace proj_um
         }
 
 
+        private static void RecuperarSerie()
+        {
+            Console.WriteLine("Series excluídas");
+            var lista = repositorio.Lista();
+
+            if (lista.Count == 0)
+            {
+                Console.WriteLine("Nenhuma série cadastrada.");
+                return;
+            }
+
+            foreach (var serie in lista)
+            {
+                var excluido = serie.retornaExcluido();
+
+                if(excluido)
+                    Console.WriteLine("#ID {0}: - {1}", serie.retornaId(), serie.retornaTitulo());
+                
+            }
+
+            Console.Write("Digite o id da série que deseja excluir:");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            repositorio.Recupera(indiceSerie);
+        }
+
+
 
         private static string ObterOpcaoUsuario()
         {
@@ -156,6 +186,7 @@ namespace proj_um
             Console.WriteLine("3- atualizar série");
             Console.WriteLine("4- Excluir série");
             Console.WriteLine("5- Visualizar série");
+            Console.WriteLine("6- Recuperar série");
             Console.WriteLine("C- Limpar Tela");
             Console.WriteLine("X- Sair ");
             Console.WriteLine();
