@@ -1,0 +1,16 @@
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.exe
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.deps.json
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.runtimeconfig.json
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.runtimeconfig.dev.json
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.dll
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\ref\proj_um.dll
+C:\Jarbas\_workspace\atv_1\proj_um\bin\Debug\net5.0\proj_um.pdb
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.csprojAssemblyReference.cache
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.AssemblyInfoInputs.cache
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.AssemblyInfo.cs
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.csproj.CoreCompileInputs.cache
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.dll
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\ref\proj_um.dll
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.pdb
+C:\Jarbas\_workspace\atv_1\proj_um\obj\Debug\net5.0\proj_um.genruntimeconfig.cache
